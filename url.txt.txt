@@ -1,0 +1,12 @@
+# GitHub Repository
+https://github.com/CrazyDave-kill/E-Commerce_Data_Analyst
+
+# Data Sources
+https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view
+https://dicoding.com
+
+# Documentation
+https://docs.streamlit.io/
+https://pandas.pydata.org/docs/
+https://seaborn.pydata.org/
+https://matplotlib.org/stable/contents.html
