@@ -34,7 +34,7 @@ This project is an interactive E-Commerce Dashboard built with Streamlit. It pro
 
 ## Files
 
-- `app.py`: The main Streamlit application file.
+- `Dashboard.py`: The main Streamlit application file.
 - `orders_dataset_modified.csv`: The orders dataset.
 - `order_items_dataset_modified.csv`: The order items dataset.
 - `order_payments_dataset_modified.csv`: The order payments dataset.
