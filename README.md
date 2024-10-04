@@ -2,6 +2,9 @@
 
 This project is an interactive E-Commerce Dashboard built with Streamlit. It provides insights into seller performance, payment methods, and daily orders. The dashboard allows users to filter data by date range and visualize key metrics.
 
+**The datasets used in this project are available on Google Drive**
+https://drive.google.com/drive/folders/1viUklHGljU8vwRoOVu_E1KBn53xsranq?usp=sharing
+
 ## Features
 
 - **Daily Orders**: Visualize the total number of orders and revenue on a daily basis.
