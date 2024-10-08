@@ -29,23 +29,33 @@ https://drive.google.com/drive/folders/1viUklHGljU8vwRoOVu_E1KBn53xsranq?usp=sha
 
 ## Usage
 
-1. Run the Streamlit app:
+1. Open the Jupyter Notebook:
     ```bash
-    streamlit run Dashboard.py
+    jupyter notebook notebook.ipynb
     ```
-2. Open your web browser and go to `http://localhost:8501` to view the dashboard.
+2. After running the necessary cells in the notebook, navigate to the `dashboard` folder:
+    ```bash
+    cd dashboard
+    ```
+3. Run the Streamlit app:
+    ```bash
+    streamlit run dashboard.py
+    ```
+4. Open your web browser and go to `http://localhost:8501` to view the dashboard.
 
 ## Files
 
-- `Dashboard.py`: The main Streamlit application file.
-- `orders_dataset_modified.csv`: The orders dataset.
-- `order_items_dataset_modified.csv`: The order items dataset.
-- `order_payments_dataset_modified.csv`: The order payments dataset.
+- `dashboard/dashboard.py`: The main Streamlit application file.
+- `dashboard/main_data.csv`: The main dataset used in the dashboard.
+- `data/data_1.csv`: Additional dataset 1.
+- `data/data_2.csv`: Additional dataset 2.
+- `notebook.ipynb`: Jupyter Notebook for data analysis.
 - `requirements.txt`: The list of dependencies required to run the app.
+- `url.txt`: A file containing URLs related to the project.
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/3787068e-a220-4219-b958-3727d7a8f880)
+!image
 
 ## Contributing
 
@@ -60,4 +70,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Streamlit
 - Seaborn
 - Pandas
-
